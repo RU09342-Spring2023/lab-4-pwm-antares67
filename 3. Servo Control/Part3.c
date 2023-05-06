@@ -1,4 +1,11 @@
+/**
 
+author: Thomas Rasa
+March 2023
+
+This code allows you to control a servo motor my pressing the pin 2.3 and 4.1 buttons 
+
+*/
 #include <msp430.h>
 
 void pwmSweepRIGHT();
